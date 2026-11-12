@@ -62,4 +62,14 @@ export const certificates = [
     original: 'certificates/originals/python-programming-codefobe.pdf',
     kind: 'PDF',
   },
+  {
+    id: 'ai-foundation-course-jiopc',
+    title: 'AI Foundation Course',
+    issuer: 'AI Classroom, powered by JioPC · Jio Institute',
+    date: 'Digital badge',
+    note: 'Course completion badge · ID rYhzBFi62Vxg',
+    preview: 'certificates/previews/ai-foundation-course-jiopc.jpg',
+    original: 'certificates/originals/ai-foundation-course-jiopc.pdf',
+    kind: 'PDF',
+  },
 ]
