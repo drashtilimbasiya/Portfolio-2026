@@ -66,27 +66,32 @@ export const skillGroups = [
   {
     title: 'Android Development',
     icon: 'android',
-    items: ['Kotlin', 'XML', 'Android Studio', 'Firebase Authentication', 'Cloud Firestore'],
+    items: ['Kotlin', 'XML', 'Firebase Authentication', 'Cloud Firestore'],
   },
   {
     title: 'Programming Languages',
     icon: 'code',
-    items: ['C', 'C++', 'Java', 'Python'],
+    items: ['C', 'C++', 'Java', 'Python', 'Go Language', 'R Language'],
   },
   {
     title: 'Web Technologies',
     icon: 'globe',
-    items: ['PHP', 'HTML', 'CSS', 'JavaScript'],
+    items: ['PHP', 'HTML', 'CSS', 'JavaScript', 'React.js', 'Node.js', 'ASP.NET', '.NET'],
   },
   {
     title: 'Databases',
     icon: 'database',
-    items: ['Firebase', 'MySQL', 'MongoDB', 'SQL Server'],
+    items: ['Firebase', 'MySQL', 'MongoDB', 'SQL Server', 'Supabase', 'SQL', 'DBMS', 'RDBMS'],
   },
   {
     title: 'Tools & Platforms',
     icon: 'tool',
-    items: ['Android Studio', 'XAMPP Server', 'GitHub'],
+    items: ['Android Studio', 'XAMPP Server', 'GitHub', 'Visual Studio 2022', 'Visual Studio Code (VS Code)', 'Git', 'Vercel'],
+  },
+  {
+    title: 'Other Technical Skills',
+    icon: 'briefcase',
+    items: ['Database Design', 'Designing', 'Microsoft Excel', 'Microsoft Word', 'Microsoft PowerPoint', 'Canva', 'PPT Creation'],
   },
 ]
 
